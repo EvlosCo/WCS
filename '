@@ -1,0 +1,16 @@
+# WCS - Web Content Store
+
+Web Content Store (WCS) is a system where you can store content to be presented by a webpage.
+An excellent use for this is a frontend app that makes calls to the WCS RESTful API to receive
+content a user has stored in WCS
+
+## Benefits
+
+There are a few benefits with using WCS over say WordPress.
+
+* Simple to use web interface
+* Barebones and built for the purpose of serving content to React, Angular and Vue apps.
+* Cross-platform (WCS doesn't care where you want the data to end up, it might be in a mobile app,
+a webpage or desktop application)
+* RESTful API
+* OAuth2
