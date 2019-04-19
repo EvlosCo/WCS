@@ -1,3 +1,4 @@
+![Evlos WCS](https://i.imgur.com/1Ldy4oD.png)
 # WCS - Web Content Store
 
 Web Content Store (WCS) is a system where you are able to store content to be presented by a webpage,
