@@ -2,11 +2,11 @@
     <img src="https://i.imgur.com/1Ldy4oD.png" />
 </p>
 
-<h1 align="center">
-    Evlos WCS (Web Content Store)
-</h1>
+<h2 align="center">
+    Web Content Store
+</h2>
 
-# Description
+## Description
 
 Web Content Store (WCS) is a system where you are able to store content to be presented by a webpage,
 mobile app or even a desktop app. It doesn't care where you want the data to end up.
